@@ -1,3 +1,5 @@
+// JavaScript to make the elements fade in upon loading the page
+
 const animatedTags = document.querySelectorAll('.box-1, .box-2, .box-3');
 
 // fade out on load
